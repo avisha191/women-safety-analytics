@@ -1,0 +1,80 @@
+[
+  {
+    "cluster":0,
+    "risk_level":"High Risk",
+    "Latitude":41.8478023431,
+    "Longitude":-87.6672055733
+  },
+  {
+    "cluster":1,
+    "risk_level":"Medium Risk",
+    "Latitude":41.9764113169,
+    "Longitude":-87.8090188301
+  },
+  {
+    "cluster":2,
+    "risk_level":"High Risk",
+    "Latitude":41.7024414224,
+    "Longitude":-87.5355995659
+  },
+  {
+    "cluster":3,
+    "risk_level":"Medium Risk",
+    "Latitude":41.6557149446,
+    "Longitude":-87.6052870498
+  },
+  {
+    "cluster":4,
+    "risk_level":"High Risk",
+    "Latitude":41.9773995788,
+    "Longitude":-87.8416330734
+  },
+  {
+    "cluster":5,
+    "risk_level":"High Risk",
+    "Latitude":41.6923066154,
+    "Longitude":-87.7039586035
+  },
+  {
+    "cluster":6,
+    "risk_level":"Medium Risk",
+    "Latitude":41.6558667182,
+    "Longitude":-87.5480302299
+  },
+  {
+    "cluster":7,
+    "risk_level":"Low Risk",
+    "Latitude":41.9948297395,
+    "Longitude":-87.8821585946
+  },
+  {
+    "cluster":8,
+    "risk_level":"Low Risk",
+    "Latitude":41.9762262926,
+    "Longitude":-87.8764451751
+  },
+  {
+    "cluster":9,
+    "risk_level":"Medium Risk",
+    "Latitude":41.9773345316,
+    "Longitude":-87.904247383
+  },
+  {
+    "cluster":10,
+    "risk_level":"Low Risk",
+    "Latitude":41.974892595,
+    "Longitude":-87.8902128572
+  },
+  {
+    "cluster":11,
+    "risk_level":"Low Risk",
+    "Latitude":41.9878261564,
+    "Longitude":-87.810605922
+  },
+  {
+    "cluster":12,
+    "risk_level":"High Risk",
+    "Latitude":42.0007168341,
+    "Longitude":-87.8113636139
+  }
+]

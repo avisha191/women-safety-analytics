@@ -1,0 +1,119 @@
+[
+  {
+    "cluster":0,
+    "total_crimes":97032,
+    "night_crimes":43133,
+    "night_ratio":0.4445234562,
+    "crime_density_norm":1.0,
+    "risk_score":0.7778093825,
+    "risk_level":"High Risk"
+  },
+  {
+    "cluster":1,
+    "total_crimes":120,
+    "night_crimes":55,
+    "night_ratio":0.4583333333,
+    "crime_density_norm":0.0007217834,
+    "risk_score":0.1837664034,
+    "risk_level":"Medium Risk"
+  },
+  {
+    "cluster":2,
+    "total_crimes":560,
+    "night_crimes":287,
+    "night_ratio":0.5125,
+    "crime_density_norm":0.0052587078,
+    "risk_score":0.2081552247,
+    "risk_level":"High Risk"
+  },
+  {
+    "cluster":3,
+    "total_crimes":447,
+    "night_crimes":208,
+    "night_ratio":0.4653243848,
+    "crime_density_norm":0.0040935431,
+    "risk_score":0.1885858798,
+    "risk_level":"Medium Risk"
+  },
+  {
+    "cluster":4,
+    "total_crimes":176,
+    "night_crimes":92,
+    "night_ratio":0.5227272727,
+    "crime_density_norm":0.0012992102,
+    "risk_score":0.2098704352,
+    "risk_level":"High Risk"
+  },
+  {
+    "cluster":5,
+    "total_crimes":107,
+    "night_crimes":53,
+    "night_ratio":0.4953271028,
+    "crime_density_norm":0.0005877379,
+    "risk_score":0.1984834839,
+    "risk_level":"High Risk"
+  },
+  {
+    "cluster":6,
+    "total_crimes":213,
+    "night_crimes":105,
+    "night_ratio":0.4929577465,
+    "crime_density_norm":0.0016807243,
+    "risk_score":0.1981915331,
+    "risk_level":"Medium Risk"
+  },
+  {
+    "cluster":7,
+    "total_crimes":67,
+    "night_crimes":27,
+    "night_ratio":0.4029850746,
+    "crime_density_norm":0.0001752903,
+    "risk_score":0.161299204,
+    "risk_level":"Low Risk"
+  },
+  {
+    "cluster":8,
+    "total_crimes":50,
+    "night_crimes":15,
+    "night_ratio":0.3,
+    "crime_density_norm":0.0,
+    "risk_score":0.12,
+    "risk_level":"Low Risk"
+  },
+  {
+    "cluster":9,
+    "total_crimes":218,
+    "night_crimes":91,
+    "night_ratio":0.4174311927,
+    "crime_density_norm":0.0017322802,
+    "risk_score":0.1680118452,
+    "risk_level":"Medium Risk"
+  },
+  {
+    "cluster":10,
+    "total_crimes":74,
+    "night_crimes":16,
+    "night_ratio":0.2162162162,
+    "crime_density_norm":0.0002474686,
+    "risk_score":0.0866349676,
+    "risk_level":"Low Risk"
+  },
+  {
+    "cluster":11,
+    "total_crimes":60,
+    "night_crimes":24,
+    "night_ratio":0.4,
+    "crime_density_norm":0.0001031119,
+    "risk_score":0.1600618672,
+    "risk_level":"Low Risk"
+  },
+  {
+    "cluster":12,
+    "total_crimes":79,
+    "night_crimes":48,
+    "night_ratio":0.6075949367,
+    "crime_density_norm":0.0002990246,
+    "risk_score":0.2432173894,
+    "risk_level":"High Risk"
+  }
+]
