@@ -3,10 +3,17 @@ import cors from "cors";
 import riskRoutes from "./routes/riskRoutes.js";
 
 const app = express();
-app.use(cors());
 
+// Middleware
+app.use(cors());
+app.use(express.json());
+
+// Routes
 app.use("/api/risk", riskRoutes);
 
-app.listen(5000, () => {
-  console.log("🚀 Backend running on port 5000");
+// ✅ IMPORTANT: Dynamic PORT for deployment
+const PORT = process.env.PORT || 5000;
+
+app.listen(PORT, () => {
+  console.log(`🚀 Backend running on port ${PORT}`);
 });
