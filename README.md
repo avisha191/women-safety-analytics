@@ -4,20 +4,22 @@
 **Women Safety Analytics** is a geospatial crime analysis project that identifies **unsafe areas in Chicago** using historical crime data (2024–2025).  
 The system applies **density-based clustering (DBSCAN)** to detect crime hotspots and assigns **interpretable risk levels and scores**, visualized through an **interactive, mobile-responsive map**.
 
-This project focuses on **real-world usability, explainability, and correct algorithm selection**, making it suitable for safety awareness and urban analytics.
+This project emphasizes **real-world usability, explainability, and correct algorithm selection**, making it suitable for safety awareness, urban analytics, and decision support.
 
 ---
-## 🌐 Live Backend API
+## 🌐 Live Deployment
 
-### 🔹 Base URL
+### 🔹 Frontend (Live UI)
+https://women-safety-analytics-tawny.vercel.app
+
+### 🔹 Backend API
 https://women-safety-backend-p05p.onrender.com
 
 **Available Endpoints**
 - `/api/risk/clusters` → Crime hotspot clusters
 - `/api/risk/centroids` → Cluster centroids with risk levels
 
-> ⚠️ Free-tier backend may take ~30 seconds to wake up on first request.
-
+> ⚠️ Backend is hosted on a free tier and may take ~30 seconds to wake up on the first request.
 
 ---
 
