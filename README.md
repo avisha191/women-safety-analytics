@@ -121,8 +121,8 @@ _Add screenshots here (map view, heatmap, popup example)._
 ---
 
 ## 🧑‍💻 Author
-**Your Name**  
-B.Tech Computer Science Engineering (4th Year)
+**Avisha Sahu**  
+B.Tech Computer Science Engineering
 
 ---
 
