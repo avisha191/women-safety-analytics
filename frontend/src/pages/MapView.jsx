@@ -13,6 +13,9 @@ import RiskLegend from "../components/RiskLegend";
 import HeaderPanel from "../components/HeaderPanel";
 import InfoPanel from "../components/InfoPanel";
 
+/* ---------------- API BASE URL ---------------- */
+const API_BASE = import.meta.env.VITE_API_URL;
+
 /* ---------------- Fix Map Resize (IMPORTANT) ---------------- */
 function FixMapResize() {
   const map = useMap();
@@ -121,7 +124,7 @@ export default function MapView() {
   const [activeCluster, setActiveCluster] = useState(null);
 
   useEffect(() => {
-    fetch("http://localhost:5000/api/risk/centroids")
+    fetch(`${API_BASE}/api/risk/centroids`)
       .then((res) => res.json())
       .then(setCentroids)
       .catch(console.error);
