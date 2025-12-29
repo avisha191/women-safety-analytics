@@ -7,6 +7,19 @@ The system applies **density-based clustering (DBSCAN)** to detect crime hotspot
 This project focuses on **real-world usability, explainability, and correct algorithm selection**, making it suitable for safety awareness and urban analytics.
 
 ---
+## 🌐 Live Backend API
+
+### 🔹 Base URL
+https://women-safety-backend-p05p.onrender.com
+
+**Available Endpoints**
+- `/api/risk/clusters` → Crime hotspot clusters
+- `/api/risk/centroids` → Cluster centroids with risk levels
+
+> ⚠️ Free-tier backend may take ~30 seconds to wake up on first request.
+
+
+---
 
 ## 🎯 Key Features
 
